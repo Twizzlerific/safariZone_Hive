@@ -1,0 +1,12 @@
+# PokéDex Tables
+DROP DATABASE pkdb_ext CASCADE;
+DROP DATABASE pkdb_mng CASCADE;
+DROP DATABASE pkdb_orc CASCADE;
+DROP DATABASE pkdb_avro CASCADE;
+DROP DATABASE pkdb_parquet CASCADE;
+DROP DATABASE pkdb_seq CASCADE;
+DROP DATABASE pkdb_rc CASCADE;
+DROP DATABASE pkdb_txt CASCADE;
+
+# Trainer Tables
+DROP DATABASE pkdb_trainers CASCADE;
